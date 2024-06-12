@@ -1,0 +1,40 @@
+Test case 1:
+Expected: The bridge words from word1 to word3 : word2, word4.
+Actual: The bridge words from word1 to word3 : word2, word4.
+Test case 1 passed
+
+Test case 2:
+Expected: No bridge words from word1 to word4!
+Actual: No bridge words from word1 to word4!
+Test case 2 passed
+
+Test case 3:
+Expected: No word5 in the graph!
+Actual: No word5 in the graph!
+Test case 3 passed
+
+Test case 4:
+Expected: No word5 in the graph!
+Actual: No word5 in the graph!
+Test case 4 passed
+
+Test case 5:
+Expected: No word5 in the graph!
+Actual: No word5 in the graph!
+Test case 5 passed
+
+Test case 6:
+Expected: No word5 and word6 in the graph!
+Actual: No word5 and word6 in the graph!
+Test case 6 passed
+
+Test case 7:
+Expected: The bridge words from word1 to word1 : word1.
+Actual: The bridge words from word1 to word1 : word1.
+Test case 7 passed
+
+Test case 8:
+Expected: The bridge words from word2 to word1 : word3.
+Actual: The bridge words from word2 to word1 : word3.
+Test case 8 passed
+
